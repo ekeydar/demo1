@@ -1,6 +1,7 @@
 -i https://pypi.org/simple
 backcall==0.1.0
 decorator==4.3.0
+django-extensions==2.1.4
 django==2.1.4
 ipython-genutils==0.2.0
 ipython==7.2.0
